@@ -3,6 +3,7 @@
 Для работы приложения нужно создать локальную базу данных 
 
 Пример для MySQL:
+
 drop database if exists fortytwo_band;
 create database if not exists fortytwo_band;
 

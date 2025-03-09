@@ -29,7 +29,7 @@
                             <TextBlock Text="Фамилия:" FontWeight="Bold" FontSize="20"/>
                             <TextBlock Text="{Binding LastName}" Margin="5,0,20,0" FontSize="20"/>
                             <TextBlock Text="Позывной:" FontWeight="Bold" FontSize="20"/>
-                            <TextBlock Text="{Binding Nickname}" Margin="5,0,20,0" FontSize="20"/>
+                            <TextBlock Text="{Binding nickname}" Margin="5,0,20,0" FontSize="20"/>
                             <TextBlock Text="Звезды:" FontWeight="Bold" FontSize="20"/>
                             <TextBlock Text="{Binding Star_of_hype}" Margin="5,0,20,0" FontSize="20"/>
                         </StackPanel>
